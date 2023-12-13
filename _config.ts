@@ -6,5 +6,6 @@ const site = lume();
 
 site.use(sass());
 site.use(esbuild());
+site.copy('CNAME');
 
 export default site;
