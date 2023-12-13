@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="description" content="Your personal website.">
+ <link rel="stylesheet" type="text/css" href="https://angeldollface.art/doll-cdn/css/dollfonts.css">
+ <link rel="stylesheet" type="text/css" href="/css/index.css"/>
+ <title>Your Name here.</title>
+</head>
+ <body>
+  <canvas id="canv"></canvas>
+  <script type="module" async src="/mods/render.js"></script>
+<script type="text/javascript">
+ window.onload = () => {
+   let symbolName = 'Star';
+   let modelURL = 'https://angeldollface.art/doll-cdn/models/Star.glb';
+   let ref = 'canv';
+   renderModel(symbolName,modelURL,ref);
+ }
+</script>
+</script>
+ </body>
+</html>
