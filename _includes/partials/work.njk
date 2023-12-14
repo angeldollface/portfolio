@@ -1,0 +1,9 @@
+<hr/>
+{% for key, value in work %}
+  <h2 class="field">{{ key }}</h2>
+  <p class="content">
+  {% for proj, data in value %}
+   <a class="projLink" href="{{ data [1] }}">{{ proj }}</a>: {{ data[0] }}<br/>
+  {% endfor %}
+ </p>
+{% endfor %}

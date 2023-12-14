@@ -20,7 +20,5 @@
     "threeTwoIcon": "https://angeldollface.art/assets/favicons/favicon-32x32.png",
     "nineSixIcon": "https://angeldollface.art/assets/favicons/favicon-96x96.png",
     "oneSixIcon": "https://angeldollface.art/assets/favicons/favicon-16x16.png",
-    "msOneFourFourIcon": "https://angeldollface.art/assets/favicons/ms-icon-144x144.png",
-    "modelUrl": "https://angeldollface.art/doll-cdn/models/Star.glb",
-    "modelMeshName": "Star"
+    "msOneFourFourIcon": "https://angeldollface.art/assets/favicons/ms-icon-144x144.png"
 }

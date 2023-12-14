@@ -1,0 +1,19 @@
+ {
+    "Code": {
+        "Mandy": ["A hypersonic static-site generator written in Rust.", "https://github.com/angeldollface/mandy"],
+        "Chirp": ["An implementation for a CLI tool in C that uses my algorithm to validate passwords.", "https://github.com/angeldollface/chirp"],
+        "Shortly": ["A small Django-powered app to shorten long-ass URLs. ", "https://github.com/angeldollface/shortly"]
+    },
+    "DJ Sets": {
+        "Doll House Radio Focus Episode 8": ["A DJ set that mixes deep house and tech house.", "https://www.youtube.com/watch?v=vWC5KmdRuTQ"],
+        "Doll House Radio Focus Episode 5": ["A DJ set that mixes boldly between genres.", "https://www.youtube.com/watch?v=Y2yqq4KMLEw"],
+        "Doll House Radio Focus Episode 1": ["My first ever DJ set and one of my best.", "https://www.youtube.com/watch?v=TYkxzruFhUs&t=960s"]
+    },
+    "Links": {
+        "My GitHub": ["My GitHub account.", "https://github.com/angeldollface"],
+        "My Personal Website": ["My main, personal website.", "https://angeldollface.art"],
+        "My Instagram": ["My personal Instagram account.", "https://instagram.com/angeldollface666"],
+        "My YouTube": ["My YouTube channel for my DJ sets.", "https://www.youtube.com/@angeldollface666"],
+        "My ETH address": ["My personal, branded address on the Ethereum blockchain.", "https://etherscan.io/address/angeldollface.eth"]
+    }
+ }
