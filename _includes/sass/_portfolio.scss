@@ -7,7 +7,7 @@ Licensed under the MIT license.
 $headingFont: 'MMD';
 $stdFont: 'FiraCode-Regular';
 $mainColor: #000000;
-$workDivColor: #FFFFFF;
+$auxColor: #FFFFFF;
 /**/
 
 /*GENERAL START*/
@@ -47,7 +47,7 @@ div.content {
     display: block;
     margin: 0 auto;
     margin-bottom: 0px !important;
-    margin-top: 0px !important;
+    margin-top: 20px !important;
     padding: 0px;
     border: none;
     height: 100%;
@@ -133,6 +133,15 @@ a.projLink {
 }
 a.projLink:hover {
     color: #808080;
+}
+div.spacer {
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+    right: 0;
+    left: 0;
+    width: 100%;
+    background-color: transparent;
 }
 /* DESKTOP END */
 
