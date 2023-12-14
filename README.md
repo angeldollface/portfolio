@@ -1,6 +1,6 @@
 # PORTFOLIO :nail_care: :dolls:
 
-![GitHub CI](https://github.com/angeldollface/portfolio/actions/workflows/react.yml/badge.svg)
+![GitHub CI](https://github.com/angeldollface/portfolio/actions/workflows/main.yml/badge.svg)
 
 ***My portfolio website. :nail_care: :dolls:***
 
