@@ -15,10 +15,6 @@ and [Lume](https://lume.land). Enjoy. :heart:
 
 To view a live deployed version of this project and this demo, click here: [VIEW](https://angeldollface.dev)
 
-## LEARN AND RE-USE :thinking: :sparkles:
-
-If you want to understand how I've achieved this project, read the source code in the file `mods/render.ts`.
-
 ## TRY THIS PROJECT ON YOUR OWN MACHINE! :inbox_tray:
 
 Make sure you have the following tools installed and available from the command line:
